@@ -72,7 +72,6 @@ class Forca {
           letrasChutadas: this.letrasChutadas, // Deve conter todas as letras chutadas
           vidas: this.vidas, // Quantidade de vidas restantes
           palavra: this.palavra, // Deve ser um array com as letras que já foram acertadas ou o valor "_" para as letras não identificadas
-          // --------------------------------------------
       }
   }
 }
